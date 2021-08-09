@@ -1,0 +1,12 @@
+body{
+    background-color: cornflowerblue;
+    color:white;
+}
+table thead{
+    background-color: #302b63;
+    color: white;
+}
+.formulario{
+    margin-left: 130px;
+    margin-right: 130px;
+}
